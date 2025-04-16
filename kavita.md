@@ -1,5 +1,9 @@
-### Explication
+## Sites web pour Kavita
 https://www.kavitareader.com/
+https://github.com/Kareadita/Kavita
+
+### Explication
+
 Ci dessous la version du docker-compose que j utilise
 Tous les comics sont dans le dossier "data"
 
