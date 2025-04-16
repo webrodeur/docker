@@ -1,6 +1,6 @@
 Ci dessous la version du docker-compose que j utilise
 Tous les comics sont dans le dossier "data"
-
+```yaml
 version: "3.9"
 services:
   kavita:
@@ -17,3 +17,4 @@ services:
       - /volume2/docker/kavita/config:/kavita/config:rw
       - /volume2/docker/kavita/data:/manga:rw
     restart: on-failure:5
+```
