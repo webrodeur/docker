@@ -26,3 +26,5 @@ services:
       - /volume2/docker/kavita/data:/manga:rw
     restart: on-failure:5
 ```
+
+Librement inspiré du site web : https://mariushosting.com/synology-install-kavita-with-portainer/
