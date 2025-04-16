@@ -1,4 +1,5 @@
 ### Explication
+https://www.kavitareader.com/
 Ci dessous la version du docker-compose que j utilise
 Tous les comics sont dans le dossier "data"
 
