@@ -1,7 +1,7 @@
 ## Sites web pour Calibre-web
 
 
-### Code docker pour Calibre
+### Container docker pour Calibre
 
 ```yaml
 services:

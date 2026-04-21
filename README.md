@@ -10,3 +10,5 @@ Mes fichiers docker-compose pour mon nas UGREEN 4800+
 
 ![Kavita](https://geek-cookbook.funkypenguin.co.nz/images/kavita.png)
 ---
+
+[Calibre-web](Calibre-web.md) est une application web qui fournit une interface propre pour parcourir, lire et télécharger des eBooks en utilisant une base de données Calibre existante. 
