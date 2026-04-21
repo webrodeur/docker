@@ -5,6 +5,8 @@ https://www.kavitareader.com/
 
 https://github.com/Kareadita/Kavita
 
+!![Kavita](https://www.kavitareader.com/img/hero/homepage-light2.png)
+
 ### Explication
 
 Ci dessous la version du docker-compose que j utilise
