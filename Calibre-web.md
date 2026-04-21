@@ -21,7 +21,7 @@ services:
     volumes:
       - /volume2/docker/autocalibreweb/config:/config:rw
       - /volume2/docker/autocalibreweb/ingest:/cwa-book-ingest:rw
-      - /volume2/docker/autocalibreweb/library:/calibre-library:rw
+      - /volume2/docker/autocalibreweb/library:/calibre-library:rw #bibliotheque contenant les livres
     ports:
       - 8213:8083 
     restart: on-failure:5
