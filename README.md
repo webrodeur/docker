@@ -6,8 +6,8 @@ Mes fichiers docker-compose pour mon nas UGREEN 4800+
 
 ## Services
 
-[kavita.md][K] est un serveur de lecture multiplateforme rapide et riche en fonctionnalités. Conçu pour répondre à tous vos besoins de lecture, il vous permet de configurer votre propre serveur et de partager votre bibliothèque avec vos proches.
-
+K est un serveur de lecture multiplateforme rapide et riche en fonctionnalités. Conçu pour répondre à tous vos besoins de lecture, il vous permet de configurer votre propre serveur et de partager votre bibliothèque avec vos proches.
+[kavita.md][K]
 
 [K]: https://github.com/webrodeur/docker/blob/main/kavita
 ---
