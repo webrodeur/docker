@@ -18,17 +18,17 @@ Mes fichiers docker-compose pour mon nas UGREEN 4800+
 ***
 ### Stirling-pdf
 [Stirling-PDF](container/stirling-pdf.md) est une plate-forme Web de manipulation de PDF robuste, hébergée localement et optimisée par Docker. Cette application offre un large éventail de fonctionnalités, depuis les opérations de base telles que la fusion et le fractionnement de PDF jusqu'aux fonctionnalités avancées telles que la compression, l'OCR et les conversions.
-![stirling](https://www.it-connect.fr/wp-content-itc/uploads/2024/05/Stirling-PDF-Fonctionnalites-800x294.jpg.webp)
+<img src="https://www.it-connect.fr/wp-content-itc/uploads/2024/05/Stirling-PDF-Fonctionnalites-800x294.jpg.webp" width="300" height="200">   
 
 ***
 ### Homepage
 [Homepage](container/homepage.md) c est un tableau de bord d'application moderne, entièrement statique, rapide, sécurisé, entièrement proxy et hautement personnalisable avec des intégrations pour plus de 100 services et des traductions dans plusieurs langues. Facilement configurable via des fichiers YAML ou via la découverte d'étiquettes Docker.
-![homepage](https://gethomepage.dev/assets/homepage_demo_clip.webp)
+<img src="https://gethomepage.dev/assets/homepage_demo_clip.webp" width="300" height="200">   
 
 ***
 ### Navidrome
 [Navidrome](container/navidrome.md) est un serveur de streaming musical open source, gratuit et auto-hébergé qui agit comme une alternative personnelle à des services comme Spotify ou Apple Music.
 Il permet d'indexer une collection musicale locale (stockée sur un NAS, un Raspberry Pi ou un ordinateur) et de la rendre accessible via une interface web moderne ou des applications mobiles tierces.
-![Navidrome](https://raw.githubusercontent.com/navidrome/navidrome/master/.github/screenshots/ss-desktop-player.png)
+<img src="https://raw.githubusercontent.com/navidrome/navidrome/master/.github/screenshots/ss-desktop-player.png" width="300" height="200">   
 
 ***
