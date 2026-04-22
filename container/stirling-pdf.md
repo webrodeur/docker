@@ -46,8 +46,8 @@ services:
      PGID: 10
      DOCKER_ENABLE_SECURITY: true # or false
      SECURITY_ENABLELOGIN: true #or false
-     SECURITY_INITIALLOGIN_USERNAME: webrodeur
-     SECURITY_INITIALLOGIN_PASSWORD: fidesenclos 
+     SECURITY_INITIALLOGIN_USERNAME: username # Mettre votre login
+     SECURITY_INITIALLOGIN_PASSWORD: password # Mettre votre mot de passe 
      INSTALL_BOOK_AND_ADVANCED_HTML_OPS: false #or true
      SECURITY_CSRFDISABLED: true #or false
      SYSTEM_DEFAULTLOCALE: fr_FR # 
