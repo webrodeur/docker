@@ -12,3 +12,4 @@ Mes fichiers docker-compose pour mon nas UGREEN 4800+
 ---
 
 [Calibre-web](Calibre-web.md) est une application web qui fournit une interface propre pour parcourir, lire et télécharger des eBooks en utilisant une base de données Calibre existante. 
+![Calibre-web](https://lunatopia.fr/media/pages/blog/gestion-bibliotheque-ebooks-calibre-calibre-web/015db05fc4-1739058429/calibre_web.png)
