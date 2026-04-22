@@ -8,7 +8,9 @@ https://youtu.be/aGztk8you6o?si=tIyIMZTXj8XqDXuz
 
 https://github.com/gethomepage/homepage
 
-[https://github.com/gethomepage/homepage](https://youtu.be/mC3tjysJ01E?si=Yr5ayDBVfJy2ap2R)
+https://youtu.be/mC3tjysJ01E?si=Yr5ayDBVfJy2ap2R
+
+https://technotim.live/posts/homepage-dashboard/#requirements
 
 ## Explication du service
 Homepage c est un tableau de bord d'application moderne, entièrement statique, rapide, sécurisé, entièrement proxy et hautement personnalisable avec des intégrations pour plus de 100 services et des traductions dans plusieurs langues. Facilement configurable via des fichiers YAML ou via la découverte d'étiquettes Docker.
