@@ -26,7 +26,7 @@ services:
     environment:
        PUID: 0
        PGID: 0
-       TZ: Europe/Bucharest
+       TZ: Europe/Paris
     volumes:
       - /volume2/docker/autocalibreweb/config:/config:rw
       - /volume2/docker/autocalibreweb/ingest:/cwa-book-ingest:rw
