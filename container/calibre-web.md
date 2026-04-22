@@ -24,8 +24,8 @@ services:
       retries: 3
       start_period: 90s
     environment:
-       PUID: 0
-       PGID: 0
+       PUID: 1000
+       PGID: 10
        TZ: Europe/Paris
     volumes:
       - /volume2/docker/autocalibreweb/config:/config:rw
