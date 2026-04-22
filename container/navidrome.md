@@ -1,3 +1,5 @@
+![Navidrome](https://raw.githubusercontent.com/navidrome/navidrome/master/.github/screenshots/ss-desktop-player.png)
+
 ## Sources web et Tutos liés au service
 [Navidrome](https://www.navidrome.org/)
 
