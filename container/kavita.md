@@ -1,17 +1,19 @@
 
+![Kavita](https://geek-cookbook.funkypenguin.co.nz/images/kavita.png)
 
-## Sites web pour Kavita
+## Sources web et Tutos liés au service
 https://www.kavitareader.com/
 
 https://github.com/Kareadita/Kavita
 
-![Kavita](https://geek-cookbook.funkypenguin.co.nz/images/kavita.png)
+Librement inspiré du site web : https://mariushosting.com/synology-install-kavita-with-portainer/
 
-### Explication
+## Explication du service
+Kavita est une bibliothèque numérique auto-hébergée propulsée par une fusée qui prend en charge une vaste gamme de formats de fichiers. Installez pour commencer à lire et partager votre serveur avec vos amis.
 
+## Docker Compose
 Ci dessous la version du docker-compose que j utilise
 Tous les comics sont dans le dossier "data"
-
 ```yaml
 version: "3.9"
 services:
@@ -30,5 +32,4 @@ services:
       - /volume2/docker/kavita/data:/manga:rw
     restart: on-failure:5
 ```
-
-Librement inspiré du site web : https://mariushosting.com/synology-install-kavita-with-portainer/
+***
