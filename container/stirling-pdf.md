@@ -1,1 +1,41 @@
 
+
+```yaml
+services:
+  stirling-pdf:
+    container_name: Stirling-PDF
+    image: docker.stirlingpdf.com/stirlingtools/stirling-pdf
+    mem_limit: 4g
+    cpu_shares: 1024
+    security_opt:
+      - no-new-privileges:true
+    healthcheck:
+      test: timeout 10s bash -c ':> /dev/tcp/127.0.0.1/8080' || exit 1
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 90s
+    ports:
+      - 7890:8080
+    volumes:
+      - /volume2/docker/stirling/data:/usr/share/tessdata:rw # Required for extra OCR languages
+      - /volume2/docker/stirling/config:/configs:rw
+      - /volume2/docker/stirling/logs:/logs:rw
+    environment:
+     PUID: 1000
+     PGID: 10
+     DOCKER_ENABLE_SECURITY: true # or false
+     SECURITY_ENABLELOGIN: true #or false
+     SECURITY_INITIALLOGIN_USERNAME: webrodeur
+     SECURITY_INITIALLOGIN_PASSWORD: fidesenclos 
+     INSTALL_BOOK_AND_ADVANCED_HTML_OPS: false #or true
+     SECURITY_CSRFDISABLED: true #or false
+     SYSTEM_DEFAULTLOCALE: fr_FR # 
+     UI_APPNAME: webrodeurPDF
+     UI_HOMEDESCRIPTION: webrodeur PDF Description
+     UI_APPNAMENAVBAR: webrodeur PDF
+     SYSTEM_MAXFILESIZE: 5000 # Set the maximum file size in MB
+     METRICS_ENABLED: true
+     SYSTEM_GOOGLEVISIBILITY: false # or true
+    restart: on-failure:5
+```
