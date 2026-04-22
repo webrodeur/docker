@@ -3,7 +3,7 @@
 
 
 ## Explication du service
-Homepage Un tableau de bord d'application moderne, entièrement statique, rapide, sécurisé, entièrement proxy et hautement personnalisable avec des intégrations pour plus de 100 services et des traductions dans plusieurs langues. Facilement configurable via des fichiers YAML ou via la découverte d'étiquettes Docker.
+Homepage c est un tableau de bord d'application moderne, entièrement statique, rapide, sécurisé, entièrement proxy et hautement personnalisable avec des intégrations pour plus de 100 services et des traductions dans plusieurs langues. Facilement configurable via des fichiers YAML ou via la découverte d'étiquettes Docker.
 
 ## Docker Compose
 ```yaml
