@@ -1,16 +1,19 @@
 ![homepage](https://gethomepage.dev/assets/homepage_demo_clip.webp)
 ## Sources web et Tutos liés au service
-https://gethomepage.dev/
+[Homepage](https://gethomepage.dev/)
 
-https://www.cachem.fr/homepage-nas-synology-qnap/
+[Github](https://github.com/gethomepage/homepage)
 
-https://youtu.be/aGztk8you6o?si=tIyIMZTXj8XqDXuz
+[Cachem](https://www.cachem.fr/homepage-nas-synology-qnap/)
 
-https://github.com/gethomepage/homepage
+[Technotim](https://technotim.live/posts/homepage-dashboard/#requirements)
 
-https://youtu.be/mC3tjysJ01E?si=Yr5ayDBVfJy2ap2R
+[Mariushosting](https://mariushosting.com/synology-install-homepage-with-portainer/)
 
-https://technotim.live/posts/homepage-dashboard/#requirements
+[GuiPom Youtube](https://youtu.be/aGztk8you6o?si=tIyIMZTXj8XqDXuz)
+
+[Technotim Youtube](https://youtu.be/mC3tjysJ01E?si=Yr5ayDBVfJy2ap2R)
+
 
 ## Explication du service
 Homepage c est un tableau de bord d'application moderne, entièrement statique, rapide, sécurisé, entièrement proxy et hautement personnalisable avec des intégrations pour plus de 100 services et des traductions dans plusieurs langues. Facilement configurable via des fichiers YAML ou via la découverte d'étiquettes Docker.
