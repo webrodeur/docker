@@ -1,7 +1,7 @@
 ## Sources web et Tutos liés au service
-https://www.navidrome.org/
+[Navidrome](https://www.navidrome.org/)
 
-https://mariushosting.com/synology-install-navidrome-with-portainer/
+[Mariushosting - Navidrome](https://mariushosting.com/synology-install-navidrome-with-portainer/)
 
 [Belginux - Navidrome](https://belginux.com/navidrome/)
 
