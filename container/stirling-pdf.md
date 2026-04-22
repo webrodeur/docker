@@ -5,9 +5,13 @@ Stirling-PDF est une plate-forme Web de manipulation de PDF robuste, hébergée 
 https://www.stirlingpdf.com/
 
 https://mariushosting.com/how-to-install-web-pdf-on-your-synology-nas/
+
 https://pdf.adminforge.de/?lang=fr_FR
+
 https://blog.raspot.in/fr/blog/installation-et-configuration-de-stirling-pdf
+
 https://docs.stirlingpdf.com/
+
 https://github.com/Stirling-Tools/Stirling-PDF
 
 ```yaml
