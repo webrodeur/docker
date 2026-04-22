@@ -6,6 +6,8 @@ https://www.kavitareader.com/
 
 https://github.com/Kareadita/Kavita
 
+https://hub.docker.com/r/kizaing/kavita
+
 Librement inspiré du site web : https://mariushosting.com/synology-install-kavita-with-portainer/
 
 ## Explication du service
