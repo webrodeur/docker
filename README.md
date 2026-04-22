@@ -33,3 +33,6 @@ Il permet d'indexer une collection musicale locale (stockée sur un NAS, un Rasp
 <img src="https://raw.githubusercontent.com/navidrome/navidrome/master/.github/screenshots/ss-desktop-player.png" width="300" height="200">   
 
 ***
+### Photoview
+Si vous avez déjà une collection de photos et vidéos bien rangée et que vous cherchez une application de galerie légère, qui peut supporter de grosses bibliothèques et qui ne s'encombre pas de 3500 fonctions parfois bien inutiles quand on veut un simple album photo,  [Photoview ](container/photoview.md) vaut très certainement un coup d’œil!
+<img src="https://photoview.github.io/images/H7tX1GzGl7-2758.webp" width="300" height="200">   
