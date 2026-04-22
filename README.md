@@ -23,3 +23,9 @@ Mes fichiers docker-compose pour mon nas UGREEN 4800+
 ![homepage](https://gethomepage.dev/assets/homepage_demo_clip.webp)
 
 ***
+### Navidrome
+[Navidrome](container/navidrome.md) est un serveur de streaming musical open source, gratuit et auto-hébergé qui agit comme une alternative personnelle à des services comme Spotify ou Apple Music.
+Il permet d'indexer une collection musicale locale (stockée sur un NAS, un Raspberry Pi ou un ordinateur) et de la rendre accessible via une interface web moderne ou des applications mobiles tierces.
+![Navidrome](https://raw.githubusercontent.com/navidrome/navidrome/master/.github/screenshots/ss-desktop-player.png)
+
+***
