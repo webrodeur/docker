@@ -7,6 +7,7 @@
 
 [Belginux - Navidrome](https://belginux.com/navidrome/)
 
+[Github](https://github.com/navidrome/navidrome/)
 
 ## Explication du service
 Navidrome est un serveur de streaming musical open source, gratuit et auto-hébergé qui agit comme une alternative personnelle à des services comme Spotify ou Apple Music.  
